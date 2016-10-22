@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Workshop 1 Android App</string>
+    <string name="BotonEntrar">Eingeben</string>
+    <string name="LabelBienvenido">Willkommen</string>
+</resources>

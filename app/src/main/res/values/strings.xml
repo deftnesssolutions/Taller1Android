@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Taller 1 App Android</string>
+    <string name="BotonEntrar">Entrar</string>
+    <string name="LabelBienvenido">Bienvenido</string>
+</resources>
